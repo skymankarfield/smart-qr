@@ -2,7 +2,7 @@ smart-qr
 ========
 
 
-Website: http://grand.smart-qr.com  (Description here)
+Fully Resposive Website (try it on your mobile phone or tablet): http://grand.smart-qr.com  (Full Description in the website)
 
 
 Stats:
