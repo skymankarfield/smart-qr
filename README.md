@@ -2,7 +2,9 @@ smart-qr
 ========
 
 user=lucio@ualberta.ca
+
 password=pass
+
 
 Fully Resposive Website of this system (try it on your mobile phone or tablet): http://grand.smart-qr.com  (Full Description in the website)
 
